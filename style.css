@@ -1,7 +1,7 @@
 body {
     background-color: #7FFF00;
 }
-#headingTitle{
+.headingTitle{
     font-family: monospace;
     font-weight: bold;
     text-align: center;
